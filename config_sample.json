@@ -1,0 +1,13 @@
+{
+  "wifi": {
+    "ssid": "wifi",
+    "password": "pass"
+  },
+  "server": {
+    "port": 80,
+    "thermometer_name": "test"
+  },
+  "onewire": {
+    "pin": 15
+  }
+}
